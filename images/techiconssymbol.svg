@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 351 354" style="enable-background:new 0 0 351 354;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:12;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<path id="background" d="M337,350H15c-6.6,0-12-5.4-12-12V16C3,9.4,8.4,4,15,4h322c6.6,0,12,5.4,12,12v322
+		C349,344.6,343.6,350,337,350z"/>
+</g>
+<g id="Layer_2">
+	<polygon class="st0" points="3,267.7 130.6,185 143,193.6 3,286 	"/>
+	<ellipse class="st0" cx="154" cy="178.3" rx="30" ry="25.7"/>
+	<polygon class="st0" points="276.9,4.1 278.7,149.2 265.5,151.7 264.6,4.2 	"/>
+	<ellipse class="st1" cx="272" cy="177.3" rx="30" ry="25.7"/>
+	<rect x="182.2" y="169.6" class="st0" width="61.2" height="15.4"/>
+	<polygon class="st0" points="3,103.1 155.2,4 180.1,4.1 3,120 	"/>
+	<polygon class="st0" points="220.3,184.3 224.2,351 209.2,349.9 206.2,184.2 	"/>
+	<circle class="st0" cx="272" cy="177" r="7"/>
+</g>
+</svg>
